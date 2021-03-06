@@ -1,9 +1,10 @@
-# TFC Bot - Work in Progress
+ # TFC Bot - **Work In Progress**
 
 *TFCBot* is a powerful multifunction bot made for the French Discord Server **[TFC](http://discord.link/tfc "TFC Discord server link")**  
 ⚠ This bot is french and is made for french people! This doc is in english because I'm a dev ;p
 
-## Table of Contents
+# *Table of content*
+
 - [Command Progress:](#command-progress)
   - [Moderation](#moderation)
   - [Utils](#utils)
@@ -21,7 +22,8 @@
 > 🐛 ➡ Bugged  
 > ❌ ➡ Canceled / Deprecated  
 
-### Moderation:
+<details id="moderation">
+<summary><i>Moderation:</i></summary>
 
 | **Moderation** | *Status* |
 | ---- | ---- |
@@ -33,37 +35,44 @@
 | `Clear` | 🚧 |
 | `Event Creator` | 🚧 |
 | `Announcement Maker` | 🚧 |
+</details>
 
-### Utils:
+<details id="utils">
+<summary><i>Utils:</i></summary>
 
 |**Utils**| *Status* |
 | ---- | ---- |
 | `Ping` | ✅ |
 | `Help` | ✅ |
 | `Bug Report` | 🚧 |
-| `Text To Speech` | 🚧 |
 | `Music` | 🚧 |
 | `Time` | 🚧 |
 | `Translate` | 🚧 |
-| `Wiki` | 🚧 |
+| `Wikipedia` | 🚧 |
 | `Giveaway` | 🚧 |
 | `Reddit` | 🚧 |
 | `Music` | 🚧 |
 | `Radio` | 🚧 |
+</details>
 
-### Fun:
+<details id="fun">
+<summary><i>Fun:</i></summary>
 
 | **Fun** | *Status* |  
 | ---- | ---- |
+| `Text To Speech` | 🐛 |
 | `Meme` | 🐛 |
 | `Joke` | 🚧 |
-| `VDM` | 🚧 |
+| `Akinator` | 🚧 |
+| `VDM` | ❌ |
 | `Random` | 🚧 |
 | `8Ball` | 🚧 |
 | `Dice` | 🚧 |
 | `BlackJack` | 🚧 |
+</details>
 
-### Interaction:
+<details id="interaction">
+<summary><i>Interaction:</i></summary>
 
 | **Interaction** | *Status* |
 | ---- | ---- |
@@ -71,16 +80,19 @@
 | `Pat` | 🚧 |
 | `Kiss` | 🚧 |
 | `Poke` | 🚧 |
+</details>
 
-### Tests: 
+<details id="tests">
+<summary><i>Tests:</i></summary>
 
 | **Tests** | *Status* |
 | ---- | ---- |
 | `Ping` | ✅ |
 | `Reload` | ✅ |
 | `Debug` | 🚧 |
+</details>
 
 ## Commands:
-- Todo
+- *Upcoming...*
 
 > *© 2020 - 2021 TFC*
