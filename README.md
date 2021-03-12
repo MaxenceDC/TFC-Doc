@@ -12,6 +12,7 @@
   - [Fun](#fun)
   - [Test](#test)
   - [Interaction](#interaction)
+  - [To Do](#to-do)
 - [List of commands](#commands)
 - [Contributors](#contributors)
 - [Thanks](#thanks)
@@ -93,7 +94,15 @@
 | `Debug` | ✅ |
 </details>
 
+<details id="to-do">
+<summary><i>Tests:</i></summary>
+
+- Find a better database
+- Command arguments located in a specific file
+- Cleanup unused node-modules
+</details>
+
 ## Commands:
-- *Actuellement en train de rechercher quelqu'un pour faire la doc du bot...*
+- *Actively searching for someone to make the doc of the bot...*
 
 > *© 2020 - 2021 TFC*
