@@ -63,7 +63,7 @@
 | `Text To Speech` | ✅ |
 | `Meme` | 🐛 |
 | `Joke` | 🚧 |
-| `Akinator` | 🚧 |
+| `Akinator` | ✅ |
 | `VDM` | ❌ |
 | `Random` | 🚧 |
 | `8Ball` | 🚧 |
