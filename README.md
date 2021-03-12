@@ -29,10 +29,10 @@
 | ---- | ---- |
 | `Ban` | ✅ |
 | `Kick` | ✅ |
+| `Clear` | ✅ |
 | `Tempban` | 🚧 |
 | `Mute` | 🚧 |
 | `Tempmute` | 🚧 |
-| `Clear` | 🚧 |
 | `Event Creator` | 🚧 |
 | `Announcement Maker` | 🚧 |
 </details>
@@ -60,7 +60,7 @@
 
 | **Fun** | *Status* |  
 | ---- | ---- |
-| `Text To Speech` | 🐛 |
+| `Text To Speech` | ✅ |
 | `Meme` | 🐛 |
 | `Joke` | 🚧 |
 | `Akinator` | 🚧 |
@@ -89,10 +89,10 @@
 | ---- | ---- |
 | `Ping` | ✅ |
 | `Reload` | ✅ |
-| `Debug` | 🚧 |
+| `Debug` | ✅ |
 </details>
 
 ## Commands:
-- *Upcoming...*
+- *Actuellement en train de rechercher quelqu'un pour faire la doc du bot...*
 
 > *© 2020 - 2021 TFC*
