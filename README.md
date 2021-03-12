@@ -95,7 +95,7 @@
 </details>
 
 <details id="to-do">
-<summary><bTo Do</b</summary>
+ <summary><b>To Do</b></summary>
 
 - Find a better database
 - Command arguments located in a specific file
