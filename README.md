@@ -100,6 +100,7 @@
 - Find a better database
 - Command arguments located in a specific file
 - Cleanup unused node-modules
+- CommandsList for a json format?
 </details>
 
 ## Commands:
