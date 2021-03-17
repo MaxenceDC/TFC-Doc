@@ -10,7 +10,7 @@
   - [Modération](#moderation)
   - [Utilitaires](#utils)
   - [Fun](#fun)
-  - [Test](#test)
+  - [Test](#tests)
   - [Intéraction](#interaction)
   - [À Faire](#to-do)
 - [List des commandes](#commands)
