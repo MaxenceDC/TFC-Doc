@@ -53,7 +53,7 @@
 | `Wikipedia` | 🚧 |
 | `Giveaway` | 🚧 |
 | `Reddit` | 🚧 |
-| `Music` | 🚧 |
+| `Music` | ✅ |
 | `Radio` | 🚧 |
 </details>
 
@@ -63,7 +63,7 @@
 | **Fun** | *Status* |  
 | ---- | ---- |
 | `Text To Speech` | ✅ |
-| `Meme` | 🐛 |
+| `Meme` | ✅ (🐛) |
 | `Joke` | 🚧 |
 | `Akinator` | ✅ |
 | `VDM` | ❌ |
