@@ -1,7 +1,7 @@
 # TFC Bot - **Work In Progress**
 
 *TFCBot* est un bot multifonction puissant conçu pour le serveur Discord français **[TFC](http://discord.link/tfc "TFC Discord server link")**.  
-⚠ Ce bot est français et est fait pour des français !
+⚠ Ce bot est français et est fait pour des français !  
 🍵 For an english version of the doc, follow this [link](https://github.com/ElMaxonDSCRD/TFC-Doc/blob/main/README-FR.md)
 
 # *Sommaire*
