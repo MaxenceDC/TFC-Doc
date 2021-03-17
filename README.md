@@ -97,11 +97,9 @@
 <details id="to-do">
  <summary><b>To Do</b></summary>
 
-- Find a better database
-- Command arguments located in a specific file
-- Cleanup unused node-modules
+- Find a better database  
 - Add a logger
-- CommandsList for a json format?
+- CommandsList json format?
 </details>
 
 ## Commands:
