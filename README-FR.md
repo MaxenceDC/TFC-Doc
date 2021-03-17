@@ -7,15 +7,15 @@
 # *Sommaire*
 
 - [Avancement des commandes:](#avancement-des-commandes)
-  - [Modération](#modération)
+  - [Modération](#moderation)
   - [Utilitaires](#utils)
   - [Fun](#fun)
   - [Test](#test)
-  - [Intéraction](#intéraction)
-  - [À Faire](#à-faire)
-- [List des commandes](#commandes)
+  - [Intéraction](#interaction)
+  - [À Faire](#to-do)
+- [List des commandes](#commands)
 - [Contributeurs](#contributors)
-- [Remerciements](#remerciements)
+- [Remerciements](#thanks)
 
 ## Avancement Des Commandes: 
 
