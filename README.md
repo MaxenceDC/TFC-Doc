@@ -100,6 +100,7 @@
 - Find a better database  
 - Add a logger
 - CommandsList json format?
+- <strong/>RUST
 </details>
 
 ## Commands:
